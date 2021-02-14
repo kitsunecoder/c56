@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+div{
+    margin-top: 15px;
+}
+.images{
+    display: flex;
+    justify-content: center;
+}
+.image1{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: aqua;
+}
